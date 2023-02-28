@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\Abstract\\Abstract.csproj",
+      "projectUniqueName": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\DayOfTheWeek\\Abstract.csproj",
       "projectName": "Abstract",
-      "projectPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\Abstract\\Abstract.csproj",
+      "projectPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\DayOfTheWeek\\Abstract.csproj",
       "packagesPath": "C:\\Users\\Fips1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\Abstract\\obj\\",
+      "outputPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\GeekBrains\\Introduction to C#\\2ndseminar\\DayOfTheWeek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fips1\\AppData\\Roaming\\NuGet\\NuGet.Config",
